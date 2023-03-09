@@ -87,12 +87,12 @@ export const projects = {
 		{
 			title: "Portfolio",
 			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
-			// icons: [
+			icons: [
 			// 	{
 			// 		icon: faGithub,
 			// 		link: "https://github.com/satyendra1010/Portfolio",
 			// 	},
-			// ]
+			]
 		},
 		{
 			title: "Sentiment Analysis Tool",
