@@ -143,7 +143,7 @@ export const links = {
 	cards: [
 		{
 			title: "My website",
-			link: "https://hashirshoaeb.com/",
+			link: "https://satyendra1010.github.io/Portfolio/",
 		},
 		{
 			title: "My GitHub",
