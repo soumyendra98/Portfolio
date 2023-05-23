@@ -9,6 +9,7 @@ export const Header = ({ seo }) => {
       <meta property="og:description" content={seo.description} />
       <meta property="og:image" content={seo.image} />
       <meta property="og:type" content="website" />
+      <img src='/images/favicon.ico'/>
       <link rel="shortcut icon" href="/images/favicon.ico" />
     </Head>
   )

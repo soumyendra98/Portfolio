@@ -1,5 +1,5 @@
 
-import profile from './profile.png';
+import profile from './profile.jpg';
 import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://drive.google.com/file/d/1ZugKaCiwj8Yv6cBcXMmbFk2mSHOgxtis/view?usp=sharing",
+			link: "https://drive.google.com/file/d/1cD1gbn8lBDkGfiPZauoJTOsxJChnX1Ea/view?usp=sharing",
 			isPrimary: false,
 		},
 	],
