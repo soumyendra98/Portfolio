@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://drive.google.com/file/d/1ZugKaCiwj8Yv6cBcXMmbFk2mSHOgxtis/view?usp=sharing",
+			link: "https://drive.google.com/file/d/1V9F-QlL1vOy6KdBY6uQ1_tTIQXfgQoXi/view?usp=drive_link",
 			isPrimary: false,
 		},
 	],
@@ -85,8 +85,8 @@ export const projects = {
 			]
 		},
 		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			title: "Ethereum Wallet",
+			description: "Created a ethereum wallet which allows user to transfer ethereums and track all their transactions.",
 			icons: [
 			// 	{
 			// 		icon: faGithub,
